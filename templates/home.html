@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>CloudCostIQ</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+
+</head>
+
+<body>
+
+    <header class="navbar">
+
+        <div>
+
+            <h1 class="logo">
+                CloudCostIQ
+            </h1>
+
+            <p class="subtitle">
+                Cloud Cost Optimization Dashboard
+            </p>
+
+        </div>
+
+        <a href="/dashboard" class="btn-primary">
+            Open Dashboard
+        </a>
+
+    </header>
+
+    <main class="container">
+
+        <section class="intro-section">
+
+            <div class="intro-left">
+
+                <h2>
+                    Monitor AWS spending,
+                    forecast future costs,
+                    and discover optimization opportunities.
+                </h2>
+
+                <p>
+                    CloudCostIQ provides a centralized dashboard for
+                    analyzing cloud expenditure, tracking budgets,
+                    reviewing service-level costs and identifying
+                    opportunities to reduce infrastructure spending.
+                </p>
+
+                <a href="/dashboard" class="btn-primary">
+                    Launch Dashboard
+                </a>
+
+            </div>
+
+            <div class="intro-right">
+
+                <div class="preview-card">
+
+                    <h3>Features</h3>
+
+                    <ul>
+
+                        <li>Cost Monitoring</li>
+
+                        <li>Budget Tracking</li>
+
+                        <li>Forecasting</li>
+
+                        <li>Optimization Recommendations</li>
+
+                        <li>Service Breakdown</li>
+
+                        <li>Monthly Cost Trends</li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="footer">
+
+        <p>
+            CloudCostIQ • Built with Flask & AWS
+        </p>
+
+        <p>
+            Developed by Bhavishya Garg
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
