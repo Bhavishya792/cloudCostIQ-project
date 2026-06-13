@@ -57,15 +57,15 @@ cloudcostiq/
 
 ### Home Page
 
-(Add screenshot here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e304ffb-ad5a-431c-9fde-3604b1cb2dbf" />
 
 ### Dashboard
 
-(Add screenshot here)
+<img width="1921" height="2116" alt="home page" src="https://github.com/user-attachments/assets/0b685322-dcc4-4f2f-bfd9-a2d30cd8d555" />
 
 ### Export Report
 
-(Add screenshot here)
+<img width="1000" height="469" alt="image" src="https://github.com/user-attachments/assets/5e446b13-ad7f-48a6-b8b4-b1360a1ab9f3" />
 
 ## Author
 
